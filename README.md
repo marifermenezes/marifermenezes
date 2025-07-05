@@ -73,7 +73,8 @@ I’m driven by challenges and constant learning. My goal is to grow as a profes
 
 ### 🎮 Just for fun: Snake Game
 
-![Snake animation](https://raw.githubusercontent.com/marifermenezes/marifermenezes/main/assets/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/marifermenezes/marifermenezes/main/github-contribution-grid-snake.svg)
+
 
 ---
 
