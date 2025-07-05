@@ -77,12 +77,6 @@ I love working with front-end tools like **React**, **Next.js**, and **Tailwind*
 
 I’m driven by challenges and constant learning. My goal is to grow as a professional in web development, working with real projects, and expanding my skills every day.
 
----
-
-### 🎮 Just for fun: Snake Game
-
-![Snake animation](https://raw.githubusercontent.com/marifermenezes/marifermenezes/main/github-contribution-grid-snake.svg)
-
 
 ---
 
