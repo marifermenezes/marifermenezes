@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1A1B274&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1A1B274&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Fernanda;I'm+20+years+old;I'm+from+Brazil;I'm+a+Systems+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
-## 👩🏻‍💻 Maria Fernanda Resende Menezes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32AD7F&size=25&font=Fira+Code&center=true&vCenter=true&width=500&lines=Maria+Fernanda+Resende+Menezes)](https://git.io/typing-svg)
+![Asuka](./imgs/Asuka.gif)
+</div>
 
 **`Information Systems Student | UFU`**
 
