@@ -12,7 +12,7 @@
 
 
 
-**`Information Systems Student | UFU`**
+**`Software Engineering Intern | Bradesco`**
 
 I'm currently pursuing a degree in **Data Science at Uniube** and working as a **Software Engineering Intern at Bradesco**.
 
@@ -36,7 +36,7 @@ I'm passionate about technology, continuous learning, and creating solutions tha
   <a href="mailto:eumarimonteiro45140@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=32AD7F" />
   </a>
-  <a href="https://www.linkedin.com/in/mariferm/" target="_blank">
+  <a href="https://www.linkedin.com/in/marifermenezes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=32AD7F" />
   </a> 
 </div>
