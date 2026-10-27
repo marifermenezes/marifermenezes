@@ -15,8 +15,11 @@
 **`Information Systems Student | UFU`**
 
 I'm currently pursuing a degree in **Data Science at Uniube** and working as a **Software Engineering Intern at Bradesco**.
+
 In my current role, I'm learning **Java, Spring Boot, and core computer science concepts**, while gaining experience with back-end development, APIs, microservices, and software engineering practices.
+
 I also enjoy front-end development and have worked with technologies such as **React, Next.js, and Tailwind CSS**. I'm always exploring new technologies, improving my problem-solving skills, and building projects to put my knowledge into practice.
+
 I'm passionate about technology, continuous learning, and creating solutions that make a difference. 🚀
 
 ---
