@@ -14,9 +14,10 @@
 
 **`Information Systems Student | UFU`**
 
-I'm currently in the 2nd semester of Information Systems at the Federal University of Uberlândia (UFU) and also studying Systems Analysis.  
-I’m looking for my first opportunity in tech, where I can apply my academic knowledge, develop new skills, and contribute to innovative solutions.  
-I love working with front-end tools like **React**, **Next.js**, and **Tailwind**, and I’m always open to learning more.
+I'm currently pursuing a degree in **Data Science at Uniube** and working as a **Software Engineering Intern at Bradesco**.
+In my current role, I'm learning **Java, Spring Boot, and core computer science concepts**, while gaining experience with back-end development, APIs, microservices, and software engineering practices.
+I also enjoy front-end development and have worked with technologies such as **React, Next.js, and Tailwind CSS**. I'm always exploring new technologies, improving my problem-solving skills, and building projects to put my knowledge into practice.
+I'm passionate about technology, continuous learning, and creating solutions that make a difference. 🚀
 
 ---
 
